@@ -1,2 +1,2 @@
-# Plural_Android_Web_SDK
-Plural Android Web Redirection SDK
+# PinelabsOnline_Android_Web_SDK
+Pinelabs Online Android Web Redirection SDK
